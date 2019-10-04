@@ -19,6 +19,8 @@
     }
   },
   "workspaces": [
-    "frontend/*"
+    "frontend/*",
+    "frontend/ui/*",
+    "frontend/utils/*"
   ]
 }

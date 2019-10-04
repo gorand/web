@@ -16,9 +16,6 @@
     "@babel/preset-react": "7.0.0",
     "@babel/preset-typescript": "^7.3.3",
     "@babel/register": "7.4.4",
-    "@frontend/auth": "1.0.0",
-    "@frontend/users": "1.0.0",
-    "@frontend/common": "1.0.0",
     "@types/react": "16.8.20",
     "@types/react-intl": "2.3.18",
     "@types/react-router": "5.0.2",
@@ -68,8 +65,5 @@
     "redux-thunk": "^2.3.0",
     "reset.css": "^2.0.2",
     "styled-tools": "^1.7.1"
-  },
-  "workspaces": [
-    "../*"
-  ]
+  }
 }
